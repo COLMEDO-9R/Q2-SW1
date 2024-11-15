@@ -1,0 +1,21 @@
+body {
+	background-color: lightpink;
+	color: lightpink;
+}
+
+.container {
+	background-color: floralwhite;
+}
+
+h1 {
+   text-align: center;
+}
+
+img {
+	width: 200px;
+}
+
+footer {
+	text-align: center;
+	font-style: bold;
+}
